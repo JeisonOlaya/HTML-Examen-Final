@@ -3,7 +3,7 @@
 Mi nombre es Jeison David Olaya Ariza
 ID: 1096238530
 Clan: Van-Rossum
-corre: jeisonolaya58@gmail.com
+correo: jeisonolaya58@gmail.com
 
 He creado este proyecto final mostrando mis habilidades adquiridas durante el entrenamiento del modulo 2 (HTML y CSS)
 
